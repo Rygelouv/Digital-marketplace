@@ -4,6 +4,12 @@ from django.utils.decorators import method_decorator
 from django.shortcuts import get_object_or_404
 
 
+class LoginRequiredMixin(object):
+    @method_decorator(login_required)
+    def dispatch(self, request, *args, **kwargs):
+        return super(LoginRequiredMixin, self).dispatch(*args, **kwargs)
+
+
 class MultiSligMixin(object):
     model = None
 

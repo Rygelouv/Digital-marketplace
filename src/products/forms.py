@@ -8,7 +8,6 @@ PUBLISH_CHOICES = (
     ("draft", "DRAFT"),
 )
 
-
 class ProductAddForm(forms.Form):
     title = forms.CharField(label="The product title", widget=forms.TextInput(
         attrs={
