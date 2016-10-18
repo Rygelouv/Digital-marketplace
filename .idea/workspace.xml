@@ -83,8 +83,8 @@
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                 <state split_layout="FIRST">
-                  <first_editor relative-caret-position="714">
-                    <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+                  <first_editor relative-caret-position="824">
+                    <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -636,7 +636,14 @@
       <option name="project" value="LOCAL" />
       <updated>1462787133182</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Edit readme file">
+      <created>1476834337340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476834337340</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -676,7 +683,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Edit readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit readme file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1058,8 +1066,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="714">
-            <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <first_editor relative-caret-position="824">
+            <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />

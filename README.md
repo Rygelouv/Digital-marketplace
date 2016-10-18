@@ -40,3 +40,18 @@ Now that your new virtual env is running, you can move or clone this project in 
 ```
 pip install requirement.txt
 ```
+
+## Running the app
+
+Once everthing is installed and ready to run, you can run the project
+
+
+## Deployment
+
+I'll deploy soon this project on heroku and show you little demo of this app.
+
+This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* **Justin Michel**
